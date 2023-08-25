@@ -3,6 +3,9 @@ Release Repo for The MW5 Mercs Save Editor
 
 ## ChangeLog:
 
+### 1.6.3
+- Add mechs and weapons from DLC 3 & DLC 4
+
 ### 1.6.2
 
 - [BugFix]: editor will stop trying to scan v8 pak files, currently it can only read v11 (used by current version of the game), this should allow it to complete scans with merctech/MW5 CAB, support for the older v8 pak format may come in the future
