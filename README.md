@@ -3,6 +3,9 @@ Release Repo for The MW5 Mercs Save Editor
 
 ## ChangeLog:
 
+### 1.6.5
+- Possible fix for issues with 1.6.4 corrupting saves
+
 ### 1.6.4
 - Adds mechs from DLC 5
 - Add missing Set Property parser (fix for somes saves failing to load into the editor)
