@@ -3,6 +3,16 @@ Release Repo for The MW5 Mercs Save Editor
 
 ## ChangeLog:
 
+### 1.6.7
+- DLC 8 & 9 support
+- Fixed a number of issues with pilot editor
+- Fixed an issue with not being able to load some saves into the editor
+- Added a number of missing non-DLC mechs and items to the default lists
+- Removed DLC restrictions from most clan weapons as the game no longer flags them as DLC required
+
+### 1.6.6
+- DLC 6 & 7 support
+
 ### 1.6.5
 - Possible fix for issues with 1.6.4 corrupting saves
 
